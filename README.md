@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Also currently learning **MERN**
 
 - 💬 Ask me about **Happiness**
 
