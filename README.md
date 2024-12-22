@@ -13,12 +13,13 @@
 
 - 👨🏻‍💻 Pronouns: He/Him
 - 🔭 Currently exploring Backend space.
+- 🔭 Also exploring CP
 
 
 
 
 
-- 🌱 Also currently learning **MERN**
+- 🌱 Using **MERN**
 
 - 💬 Ask me about **Happiness**
 
