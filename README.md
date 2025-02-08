@@ -21,8 +21,6 @@
 
 - 🌱 Using **MERN**
 
-- 💬 Ask me about **Happiness**
-
 
 
 
