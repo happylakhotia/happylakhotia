@@ -45,8 +45,8 @@
 ## 🤝 Connect with me
 <p align="left">
 <a href="https://bit.ly/happylakhotia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="happy lakhotia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/happy_089" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="happy_089" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/happy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="happy_07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/curious_ninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="happy_089" height="30" width="40" /></a>
+
 </p>
 
 ##
